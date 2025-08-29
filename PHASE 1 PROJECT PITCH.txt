@@ -1,0 +1,9 @@
+In the following two weeks, the group members should will
+• make a brief literature/industry research to determine similar projects to their project,
+• learn from those studies’ outcomes and differentiate their project than others,
+• plan and document the details of the planned implementation
+• get familiar with their datasets and carry out transformations and cleansing, if necessary, and
+• carry out some basic exploratory data analysis (EDA) on their data sets. At the end of this phase, each group will make a presentation to their classmates and the instructor. This presentation (P1) should include
+• an introduction to the project (What is it about? Why is this project chosen? What is the research question/hypothesis?),
+• an overview of similar approaches (what is the state of the art? what’s missing? "lit review")
+• an introduction to the dataset (what kind of data will be studied? how large is it? what is the source of the dataset?) All the progress needs to be documented on the group GitHub repo.

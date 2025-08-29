@@ -1,0 +1,5 @@
+In the second part, groups will
+• complete their data exploration stage (the dataset should be completely ready after appropriate cleansing and transformations; all the members are expected to be familiar with all the major patterns and trends in dataset)
+• construct their model (i.e. if it is a regression problem, then groups should have their codes ready that are compatible with the dataset; if it is a neural network implementation, then students should complete at least one successful training, etc.) Also show model evaluation. (Especially, provide the details on how you do the splitting of your data into training, validation, and testing; details of your cross-validation, folds (e.g. 40/30/30? 10-fold? leave-one-out/LOO?).)
+• Again, each group will make a presentation (P2) to their classmates and the instructor.
+• All the progress needs to be documented on the group GitHub repo.

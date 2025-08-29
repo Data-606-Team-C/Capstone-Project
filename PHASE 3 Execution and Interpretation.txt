@@ -1,0 +1,7 @@
+In the third and final stage, the groups will
+• come up with concrete outcomes (either their initial hypothesis work and why or “these are the outcomes with this much prediction according to method-x, etc.),
+• discuss the performance of their model (in terms of accuracy and/or confidence levels),
+• elaborate what could be done differently or what can be done next,
+• make a presentation (P3) to their classmates and the instructor,
+• document all the progress on the group GitHub repo,
+• prepare a report preferably in a scientific paper and/or a blog post format.
