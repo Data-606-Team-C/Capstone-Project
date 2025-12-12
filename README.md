@@ -1,13 +1,17 @@
 # Predicting Hospital Readmission
 
 Data606 Team C:
+
 Brett Duvall
+
 Mohammedamin Mussa
+
 Luis Vargas Ramirez
 
  
 
-Readmission Prediction
+READMISSION PREDICTION
+
 Objective Develop a machine learning model to predict patients likely to be readmitted within 30 days (<30), enabling the hospital to intervene early and avoid CMS penalties.
 
 1. Data Strategy & Integrity
@@ -36,6 +40,7 @@ Champion (XGBoost): Broke the ceiling with 0.672 AUC (before tuning). Gradient b
 
 Action: Performed 5-Fold Grid Search Cross-Validation to tune XGBoost hyperparameters.
 Result: Achieved a Final AUC of 0.675.
+
 
 
 DATASET
