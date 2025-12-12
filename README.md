@@ -8,11 +8,19 @@ Mohammedamin Mussa
 
 Luis Vargas Ramirez
 
- 
+
+DATASET
+                                          
+Size: 101,766 encounters, 50 variables, 18 MB.
+Categories: demographics, diagnoses, labs (A1C, glucose), medication use, utilization.
+Target: 30 day readmission.
+https://archive.ics.uci.edu/dataset/296/diabetes%2B130-us%2Bhospitals%2Bfor%2Byears%2B1999-2008
+
+
 
 READMISSION PREDICTION
 
-Objective Develop a machine learning model to predict patients likely to be readmitted within 30 days (<30), enabling the hospital to intervene early and avoid CMS penalties.
+This project's objective is to develop a machine learning model to predict patients likely to be readmitted within 30 days (<30), enabling the hospital to intervene early and avoid CMS penalties.
 
 1. Data Strategy & Integrity
 
@@ -40,15 +48,6 @@ Champion (XGBoost): Broke the ceiling with 0.672 AUC (before tuning). Gradient b
 
 Action: Performed 5-Fold Grid Search Cross-Validation to tune XGBoost hyperparameters.
 Result: Achieved a Final AUC of 0.675.
-
-
-
-DATASET
-                                          
-Size: 101,766 encounters, 50 variables, 18 MB.
-Categories: demographics, diagnoses, labs (A1C, glucose), medication use, utilization.
-Target: 30 day readmission.
-https://archive.ics.uci.edu/dataset/296/diabetes%2B130-us%2Bhospitals%2Bfor%2Byears%2B1999-2008
 
 
 
